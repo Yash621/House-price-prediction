@@ -13,6 +13,6 @@ Dataset contains 7 columns and 5000 rows with CSV extension. The data contains t
 - 'Price': Price that the house sold at.
 - 'Address': Address of the houses.
 
-### solved the above problem with the help of machine learning using linear regression algorithm and sklearn library
+### Solved the above problem with the help of machine learning using linear regression algorithm and sklearn library
 
  
